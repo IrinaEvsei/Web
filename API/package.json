@@ -1,0 +1,11 @@
+{
+  "name": "API_INSTA",
+  
+  "description": "Get api from Instagram",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log('Working!');",
+    "start": "node server.js"
+  },
+  "author": "Irina Evsei"
+}

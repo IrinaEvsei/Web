@@ -1,0 +1,16 @@
+body {
+text-align: center;
+background: #FFEFD5;
+font-style: italic;
+}
+
+.container {
+  padding: 15px 0;
+  font-family: inherit !important;
+  font-size: 18px;
+}
+
+.photo-tag {
+  display: inline-block;
+}
+
